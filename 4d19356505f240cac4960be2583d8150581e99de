@@ -1,0 +1,1 @@
+{"jobID":"3e4801e0-2dbf-4c8d-98c2-1f2c7a3b6a1b","spec":{"type":"policy","cause":{"Message":"","User":"Daniel Holbach \u003cdaniel@weave.works\u003e"},"spec":{"default:deployment/helloworld":{"add":{"automated":"true"},"remove":{}}}},"result":null}
