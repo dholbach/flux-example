@@ -1,0 +1,1 @@
+{"jobID":"15566a1c-8af7-7a91-8eb9-516b199ce543","spec":{"type":"policy","cause":{"Message":"","User":"Daniel Holbach \u003cdaniel@weave.works\u003e"},"spec":{"default:deployment/helloworld":{"add":{"tag_all":"semver:~1"},"remove":{}}}},"result":null}
